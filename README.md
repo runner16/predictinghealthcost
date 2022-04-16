@@ -1,6 +1,6 @@
 # Data Science Project: Predicting Medical Costs
 
-The goal for this project was to predict medical cost based on the datasets provided to me. The following datasets were used:
+The goal for this project was to predict medical costs based on several datasets listed below. The following datasets were used:
 
 -train_better_health.csv - This dataset contains demographic, activity-based, and condition data for ~57k members (patients). It is also includes a field called Medical_Cost which is used as the target variable in the model.
 
